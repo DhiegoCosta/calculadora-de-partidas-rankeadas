@@ -24,6 +24,10 @@ Se vitórias for maior ou igual a 101 = Imortal
 Ao final deve se exibir uma mensagem:
 "O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
 
+## Aprendizados
+
+Nesse desafio aprendi mais sobre funções, principalmente sobre os objetos que podem ser retornados por elas e usados com **.variavel** para que os valores específicos que queremos sejam buscados. Aprendi também que o **IF** deve ser usado com cuidado, pois ele retorna valores booleanos, então se tiver que usar um valor para ver se ele está entre **X e Y**, use o operador **&&**.
+
 # Tecnologia usada
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
